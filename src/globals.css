@@ -1,0 +1,43 @@
+/* Your custom CSS here */
+.container {
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613217283_12-p-fon-strogii-sinii-12.jpg);
+    margin-top: -20px;
+    width: 100%;
+    opacity: 80%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 25px;
+}
+
+.ifSelected {
+    background-color: white;
+    width: 50%;
+    border: 5px solid black;
+    margin-top: 35px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.ifSuccess {
+    color: brown;
+}
+
+.nothing {
+    color: red;
+}
+
+.h3 {
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-top: 20px;
+}
+
+.input {
+    margin-bottom: 15px;
+}
